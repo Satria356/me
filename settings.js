@@ -18,21 +18,21 @@ global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 
 // Other
-global.botname = "ClaraBot-Md" //namabot kalian
-global.ownername= "ClaraKawai" //nama kalian
+global.botname = "AQSO STOREB-Md" //namabot kalian
+global.ownername= "AQSO STORE" //nama kalian
 global.myweb ="https://api-alphabot.herokuapp.com/" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
 global.github = "https://zeeone-ofc.github.io/" //bebas
-global.email = "clarakawaiii5@gmail.com" //bebas
+global.email = "aqsostore46@gmail.com" //bebas
 global.region = "Indonesia" //bebas
-global.ownernomer = "62887435047326" // nomor wa kalian
+global.ownernomer = "6282241895131" // nomor wa kalian
 global.ownernomerr = "+62887435047326" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["62887435047326","62887435047326","6285342106390"] //ganti agar fitur owner bisa di gunakan
-global.packname = '©Claraa' //sticker wm ubah
-global.author = 'Di Buat Clara-Md' //sticker wm ganti nama kalian
+global.owner = ["6282241895131","62887435047326","6285342106390"] //ganti agar fitur owner bisa di gunakan
+global.packname = '©AQSO STORE' //sticker wm ubah
+global.author = 'AQSO STORE' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
