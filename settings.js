@@ -13,19 +13,19 @@ global.APIKeys = {
 
 // setting 
 global.autoread = false // auto read pesan / message
-global.autorecording = true //status auto merekam ( auto record )
+global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 
 // Other
 global.botname = "Clara-Md" //namabot kalian
 global.ownername= "ClaraKawaii" //nama kalian
-global.myweb ="https://api-alphabot.herokuapp.com/" //bebas asal jan hapus
+global.myemail ="https://clarakawaiii5@gmail.com/" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
-global.github = "https://zeeone-ofc.github.io/" //bebas
+global.github = "https://clara939.github.io/" //bebas
 global.email = "clarakawaiii5@gmail.com" //bebas
 global.region = "Indonesia" //bebas
-global.ownernomer = "62 889-7141-9677" // nomor wa kalian
+global.ownernomer = "6288971419677" // nomor wa kalian
 global.ownernomerr = "+6283811034750" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
