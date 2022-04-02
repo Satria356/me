@@ -12,9 +12,9 @@ global.APIKeys = {
 }
 
 // setting 
-global.autoread = false // auto read pesan / message
+global.autoread = true // auto read pesan / message
 global.autorecording = true //status auto merekam ( auto record )
-global.autoketik = false //status auto mengetik (auto typing)
+global.autoketik = true //status auto mengetik (auto typing)
 global.available = false //status online (online)
 
 // Other
@@ -27,7 +27,7 @@ global.email = "memeindo74@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.ownernomer = "6283811034750" // nomor wa kalian
 global.ownernomerr = "+62887435047326" //nmr wa kalian
-global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
+global.thumbnail = "./image/tete.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.owner = ["6283811034750","62887435047326","6285342106390"] //ganti agar fitur owner bisa di gunakan
