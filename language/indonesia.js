@@ -2,17 +2,17 @@ exports.private = () =>{
 	return`Fitur hanya bisa di gunakan di private chat`
 	}
 exports.wait = () => {
-    return `⏳ Mohon tunggu sebentar~`
+    return ` *🌹 Please aaaa Waiting..... *~`
 }
 exports.ok = () => {
-    return `✅ Done. Ok desu~`
+    return `🌹 Done. Ok desu~`
 }
 
 exports.err = () => {
-    return `⚠️ Fitur Sedang Error`
+    return `🌹 Fitur Sedang Error`
 }
 exports.erorLink = () => {
-    return `⚠️ Link nya error`
+    return `🌹 Link nya error`
 }
 exports.media = () => {
     return `Silahkan pilih media yang ingin kamu download`
@@ -42,11 +42,11 @@ exports.doneOwner = () => {
 }
 
 exports.groupOnly = () => {
-    return `👥  Command ini hanya bisa digunakan di dalam grup!`
+    return `🌹  Command ini hanya bisa digunakan di dalam grup!`
 }
 
 exports.adminOnly = () => {
-    return `🙅  Command ini hanya bisa digunakan oleh admin grup!`
+    return `🐤  Command ini hanya bisa digunakan oleh admin grup!`
 }
 
 exports.nhFalse = () => {
@@ -68,7 +68,7 @@ exports.adminAlready = () => {
 }
 
 exports.botNotAdmin = () => {
-    return `Jadikan bot sebagai admin terlebih dahulu! 🙏`
+    return `Jadikan Gw Admin Dlu Ajg *ADMIN HANYALAH ALAT*`
 }
 
 exports.received = (pushname) => {
@@ -85,10 +85,10 @@ exports.notNum = (q) => {
     return `"${q}", bukan angka!`
 }
 exports.menunya = (salam, pushname, botname) =>{
-	return`Hai kak ${pushname} 👋 selamat ${salam} , 
+	return`Hai kak ${pushname} 🐤 selamat ${salam} , 
 saya ${botname}, bot ini adalah Beta Multi-Device Whatsapp. 
 Jika kamu menemukan semacam bug atau kesalahan mohon dimaklumi dulu ya, 
-lapor owner agar segera di perbaiki 🙏      
+lapor owner agar segera di perbaiki 🌹      
 `
 }
 exports.listMenu = (time, salam, pushname, prefix) => {
@@ -799,7 +799,7 @@ exports.rules = (prefix) => {
     return `
 *── 「 RULES AND FAQ 」 ──*
 
-1. Jangan spam bot. 🙅
+1. Jangan spam bot. 🐤
 Sanksi: *❎ WARN/SOFT BLOCK*
 
 2. Jangan telepon bot. ☎️
@@ -833,7 +833,7 @@ Arigatou Gozaimasu! Untuk kalian user ramah dan Beberapa orang yg ikut membantu 
 `
 }
 exports.welcome = () =>{
-	return`𝖩𝖺𝗇𝗀𝖺𝗇 𝗅𝗎𝗉𝖺 𝗂𝗇𝗍𝗋𝗈 𝗄𝖺𝗄 🤗
+	return`𝖩𝖺𝗇𝗀𝖺𝗇 𝗅𝗎𝗉𝖺 𝗂𝗇𝗍𝗋𝗈 𝗄𝖺𝗄 🐤
 	
 ╭ 𝖭𝖺𝗆𝖺 :
 ├ 𝖴𝗆𝗎𝗋 :
@@ -842,7 +842,7 @@ exports.welcome = () =>{
 ╰❒ 𝖯𝖺𝗍𝗎𝗁𝗂 𝗋𝗎𝗅𝖾𝗌 𝗀𝗋𝗎𝗉 𝗒𝖺 𝗄𝖺k ~`
 }
 exports.leave = () =>{
-	return`Yah kok out 😣 Mental aman kan kak >.<
+	return`Yah kok out 🌹 Mental aman kan kak >.<
 Goodbye`
 }
 exports.source = () =>{
@@ -856,7 +856,7 @@ exports.tos = (ownernomer) => {
     return `
 *-------「 DONATE 」 -------*
 
-Hai kak ☺️ 
+Hai kak 🌹 
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan cara donasi
 
 Berapapun donasi kalian akan sangat berarti 👍
